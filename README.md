@@ -66,5 +66,6 @@ Mean Reciprocal rank
 * Evaluation -
   * remetrics - contains the implementation of all metrics and their plots that can be imported as a package
   * CalculationMetrics.ipynb - generates recommendation lists for all models and computes metrics and plots for all the proposed models.
+  * Miscellaneous -  Contains implementations of Hinsage and Metapath2Vec recommenders taken from pytorch used to predict playcount.
 
 
